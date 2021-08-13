@@ -8,7 +8,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - 👋🏻 Quit job at end of 2020 and move to Penang (beautiful island 🏝 in Malaysia).
 - 📊 Transition to Data Analytics in Mar 2021.
 - 👩🏻‍🍳 Loves cooking, can spend hours in the kitchen. Fave dishes are 1-pot meals, soupy food, anything spicy and sour.
-- 📚 Use Excel for everything - personal budget, investment tracking, study schedule, travel itinerary (down to the train ticket fee!)
+- 📚 Use Excel for everything - personal accounts, investment tracking, study schedule, travel itinerary (down to the train ticket fee!)
 - 🏖 Last countries I travel to were Bali and Taiwan in 2019. Hopefully, next one in 2022?
 
 ### 👩🏻‍💻 Currently Working On
