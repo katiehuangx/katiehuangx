@@ -35,4 +35,5 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - Danny Ma's Serious SQL Course (est. completion Sep 2021)
 
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/)! 
+
 _Psst, I'm more inclined to accept your request if you drop me a message and say hi! 😉_
