@@ -17,7 +17,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - [8 Week SQL Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge) _[SQL]_ 
   - I absolutely love Danny Ma's SQL case studies! They're wayyy too fun to do, revolves around food - and it doesn't feel like work!
 - [My Personal SQL Study Notes](https://github.com/katiehuangx/Learn-SQL)
-  - Writing my own SQL notes with explanation & syntax examples. Plus, I'm including solutions from various SQL courses & tutorials.
+  - Writing my own SQL notes with explanation & syntax examples + including solutions from various SQL courses & tutorials.
 
 ### 📝 Currently Learning
 - DataCamp's Data Analyst with SQL Server
