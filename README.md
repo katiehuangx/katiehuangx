@@ -9,7 +9,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - 📊 Transition to Data Analytics in Mar 2021.
 - 👩🏻‍🍳 Loves cooking, can spend hours in the kitchen.
 - 📚 Uses Excel for everything - personal accounts, study schedule, meal planning, travel itinerary.
-- 🏖 Last countries I travel to were Bali and Taiwan in 2019. Hopefully, next one in 2022?
+- 🏖 Last countries I travel to were Bali and Taiwan in 2019. Hopefully, Perth in 2022?
 
 ### 👩🏻‍💻 Currently Working On
 - [Marketing Analytics Case Study](https://github.com/katiehuangx/Serious-SQL) _[SQL]_
