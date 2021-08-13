@@ -11,6 +11,13 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - 📚 Uses Excel for everything - personal accounts, study schedule, meal planning, travel itinerary.
 - 🏖 Last countries I travel to were Bali and Taiwan in 2019. Hopefully, Perth in 2022?
 
+### 💡 Skills and tools
+• Data cleaning, data manipulation, exploratory data analysis, T-SQL, report writing
+• Analytical: SQL, Excel, Google Sheets
+• Visualisation: Tableau
+• Python programming: Pandas, Numpy, Matplotlib, Seaborn libraries
+• Github, Jupyter Notebook
+
 ### 👩🏻‍💻 Currently Working On
 - [Marketing Analytics Case Study](https://github.com/katiehuangx/Serious-SQL) _[SQL]_
   - A fun case study on how to generate customised marketing insights for customers. 
