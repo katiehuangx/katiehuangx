@@ -6,7 +6,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 ### ✨ About Me in 60 Secs ✨
 - 👩🏻‍💻 Accounting background + ACCA with 7 years professional experience.
 - 👋🏻 Quit job at end of 2020 and move to Penang (beautiful island 🏝 in North Malaysia).
-- 📊 Transition to Data Analytics in Mar 2021 - Why? Because I've always been intrigued with Python programming since 11 years ago.
+- 📊 Transition to Data Analytics in Mar 2021 - Why? I've always been intrigued with Python programming since 11 years ago.
 - 👩🏻‍🍳 Loves cooking, can spend hours in the kitchen.
 - 📚 Uses Excel for everything - personal accounts, study schedule, meal planning, travel itinerary.
 - 🏖 Last countries I travel to were Bali and Taiwan in 2019. Hopefully, Perth in 2022?
