@@ -29,6 +29,6 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
   - This is a special one, it's my 1st foray into EDA and Python programming. Analysed fitness tracking data, discovered trends and provided business recommendations .
 
 ### 📝 Currently Learning
-- DataCamp's Data Analyst with SQL Server
-- DataCamp's Data Analyst with Python
-- Danny Ma's Serious SQL Course
+- DataCamp's Data Analyst with SQL Server (1/10 courses) (est. completion mid-Sep 2021)
+- DataCamp's Data Analyst with Python (5/16 courses) (est. completion Sep 2021)
+- Danny Ma's Serious SQL Course (est. completion Sep 2021)
