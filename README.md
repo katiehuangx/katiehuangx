@@ -21,7 +21,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### 📚 Notable Projects
 - [Covid-19 and Impact on Malaysia stock market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) _[SQL, Tableau]_ 
-  - A project close to home. Analysed worldwide C-19 cases and how it has impacted the stock market prices over the past 1.5 year.
+  - A project close to home. Analysed worldwide C-19 cases & how it has impacted KLCI index prices over the past 1.5 year.
   - Will be revisiting to develop a real-time dashboard - stay tune! 
 - [Sales Analysis on Super Store mart](https://github.com/katiehuangx/The-Sparks-Foundation-Internship) _[Python]_ 
   - Project as a Data Science and Business Analytics intern. Developed key business metrics and created visuals with analysis and business solutions.
