@@ -26,7 +26,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - [Sales Analysis on Super Store mart](https://github.com/katiehuangx/The-Sparks-Foundation-Internship) _[Python]_ 
   - Project as a Data Science and Business Analytics intern. Developed key business metrics and created visuals with analysis and business solutions.
 - [Fitness Tracking App Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone) _[Python]_ 
-  - This is a special one, it's my 1st foray into EDA and Python programming. Analysed fitness tracking data, discovered trends and provide business recommendations .
+  - This is a special one, it's my 1st foray into EDA and Python programming. Analysed fitness tracking data, discovered trends and provided business recommendations .
 
 ### 📝 Currently Learning
 - DataCamp's Data Analyst with SQL Server
