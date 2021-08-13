@@ -13,10 +13,8 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### 💡 Skills and tools
 - Data cleaning, data manipulation, exploratory data analysis, T-SQL, report writing
-- Analytical: SQL, Excel, Google Sheets
+- Analytical: SQL, Python, Excel, Google Sheets
 - Visualisation: Tableau
-- Python programming: Pandas, Numpy, Matplotlib, Seaborn libraries
-- Github, Jupyter Notebook
 
 ### 👩🏻‍💻 Currently Working On
 - [Marketing Analytics Case Study](https://github.com/katiehuangx/Serious-SQL) _[SQL]_
