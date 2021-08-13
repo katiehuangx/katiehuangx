@@ -19,17 +19,16 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - [My Personal SQL Study Notes](https://github.com/katiehuangx/Learn-SQL)
   - Writing my own SQL notes with explanation & syntax examples + including solutions from various SQL courses & tutorials.
 
+### 📚 Notable Projects
+- [Covid-19 and Impact on Malaysia stock market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) _[SQL, Tableau]_ 
+  - A project close to home. Analysed worldwide C-19 cases and how it has impacted the stock market prices over the past 1.5 year.
+  - Will be revisiting to develop a real-time dashboard - stay tune! 
+- [Sales Analysis on Super Store mart](https://github.com/katiehuangx/The-Sparks-Foundation-Internship) _[Python]_ 
+  - Project as a Data Science and Business Analytics intern. Developed key business metrics and created visuals with analysis and business solutions.
+- [Fitness Tracking App Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone) _[Python]_ 
+  - This is a special one, it's my 1st foray into EDA and Python programming. Analysed fitness tracking data, discovered trends and provide business recommendations .
+
 ### 📝 Currently Learning
 - DataCamp's Data Analyst with SQL Server
 - DataCamp's Data Analyst with Python
 - Danny Ma's Serious SQL Course
-
-### 📚 Notable Projects
-- [Covid-19 and Impact on Malaysia stock market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) _[SQL, Tableau]_ 
-  - A project close to home. I analysed worldwide C-19 cases and how it has impacted the stock market prices over the past 1.5 year.
-  - Will be revisiting to develop a real-time dashboard - stay tune! 
-- [Sales Analysis on Super Store mart ](https://github.com/katiehuangx/The-Sparks-Foundation-Internship) _[Python]_ 
-  - 
-- Fitness Tracking App Analysis _[Python]_ - [Repo](https://github.com/katiehuangx/Google-Data-Analytics-Capstone)
-
-
