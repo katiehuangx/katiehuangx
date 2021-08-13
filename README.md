@@ -13,9 +13,10 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### 👩🏻‍💻 Currently Working On
 - [Marketing Analytics Case Study](https://github.com/katiehuangx/Serious-SQL) _[SQL]_
-  - A fun case study on how to generate customised marketing insights for customers. Sneak peek _"What's your Top 2 movies 🎬 and favourite actor?"_
+  - A fun case study on how to generate customised marketing insights for customers. 
+  - Sneak peek _"What's your Top 2 movies 🎬 and Favourite actor?"_
 - [8 Week SQL Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge) _[SQL]_ 
-  - I absolutely love Danny Ma's SQL case studies! They're wayyy too fun to do, revolves around food - and it doesn't feel like work!
+  - I absolutely love Danny Ma's SQL case studies! They're way too fun to do, revolves around food - and doesn't feel like work!
 - [My Personal SQL Study Notes](https://github.com/katiehuangx/Learn-SQL)
   - Writing my own SQL notes with explanation & syntax examples + including solutions from various SQL courses & tutorials.
 
@@ -26,7 +27,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - [Sales Analysis on Super Store mart](https://github.com/katiehuangx/The-Sparks-Foundation-Internship) _[Python]_ 
   - Project as a Data Science and Business Analytics intern. Developed key business metrics and created visuals with analysis and business solutions.
 - [Fitness Tracking App Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone) _[Python]_ 
-  - This is a special one, it's my 1st foray into EDA and Python programming. Analysed fitness tracking data, discovered trends and provided business recommendations .
+  - This is a special one, it's my 1st foray into EDA and Python programming. Analysed fitness tracking data, discovered trends and provided business recommendations.
 
 ### 📝 Currently Learning
 - DataCamp's Data Analyst with SQL Server (1/10 courses) (est. completion mid-Sep 2021)
