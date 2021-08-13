@@ -33,3 +33,6 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - DataCamp's Data Analyst with SQL Server (1/10 courses) (est. completion mid-Sep 2021)
 - DataCamp's Data Analyst with Python (5/16 courses) (est. completion Sep 2021)
 - Danny Ma's Serious SQL Course (est. completion Sep 2021)
+
+Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/)! 
+_Psst, I'm more inclined to accept the request if you drop me a message and say hi! 😉_
