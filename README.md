@@ -7,8 +7,8 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - 👩🏻‍💻 Accounting background + ACCA with 7 years professional experience.
 - 👋🏻 Quit job at end of 2020 and move to Penang (beautiful island 🏝 in Malaysia).
 - 📊 Transition to Data Analytics in Mar 2021.
-- 👩🏻‍🍳 Loves cooking, can spend hours in the kitchen. 1-pot meals, soupy food, anything spicy and sour are my favourite!
-- 📚 Use Excel for everything - personal accounts, investment tracking, study schedule, travel itinerary (down to the train ticket fee!)
+- 👩🏻‍🍳 Loves cooking, can spend hours in the kitchen.
+- 📚 Uses Excel for everything - personal accounts, study schedule, travel itinerary.
 - 🏖 Last countries I travel to were Bali and Taiwan in 2019. Hopefully, next one in 2022?
 
 ### 👩🏻‍💻 Currently Working On
@@ -25,8 +25,11 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - Danny Ma's Serious SQL Course
 
 ### 📚 Notable Projects
-- Covid-19 and Impact on Malaysia stock market _[SQL, Tableau]_ - [Repo](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market)
-- Sales Analysis on Super Store mart _[Python]_ - [Repo](https://github.com/katiehuangx/The-Sparks-Foundation-Internship)
+- [Covid-19 and Impact on Malaysia stock market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) _[SQL, Tableau]_ 
+  - A project close to home. I analysed worldwide C-19 cases and how it has impacted the stock market prices over the past 1.5 year.
+  - Will be revisiting to develop a real-time dashboard - stay tune! 
+- [Sales Analysis on Super Store mart ](https://github.com/katiehuangx/The-Sparks-Foundation-Internship) _[Python]_ 
+  - 
 - Fitness Tracking App Analysis _[Python]_ - [Repo](https://github.com/katiehuangx/Google-Data-Analytics-Capstone)
 
 
