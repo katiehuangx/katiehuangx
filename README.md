@@ -9,7 +9,6 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - 📊 Transition to Data Analytics in Mar 2021 - Why? I've always been intrigued with Python programming.
 - 👩🏻‍🍳 Loves cooking, can spend hours in the kitchen.
 - 📚 Uses Excel for everything - personal accounts, study schedule, meal planning, travel itinerary.
-- 🏖 Last countries I travel to were Bali and Taiwan in 2019. Hopefully, Perth in 2022?
 
 ### 💡 Skills and tools
 - Data cleaning, data manipulation, exploratory data analysis, T-SQL, report writing
