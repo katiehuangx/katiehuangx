@@ -10,7 +10,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - 📚 Uses Excel for everything - personal accounts, study schedule, meal planning, travel itinerary.
 
 ### 💡 Skills and tools
-- Data cleaning, data manipulation, exploratory data analysis, T-SQL, report writing
+- Data cleaning, data manipulation, exploratory data analysis, T-SQL, relational database, report writing
 - Analytical: SQL, Python, Excel, Google Sheets
 - Visualisation: Tableau
 
