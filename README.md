@@ -20,7 +20,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
   - Sneak peek _"What's your Top 2 movies 🎬 and Favourite actor?"_
 - [8 Week SQL Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge) _[SQL]_ 
   - I absolutely love Danny Ma's SQL case studies! They're way too fun to do, revolves around food - and doesn't feel like work!
-- [My Personal SQL Study Notes](https://github.com/katiehuangx/Learn-SQL)
+- [My Personal SQL Study Notes](https://github.com/katiehuangx/Learn-SQL/blob/main/SQL%20101.md)
   - Writing my own SQL notes with explanation & syntax examples + including solutions from various SQL courses & tutorials.
 
 ### 📚 Notable Projects
