@@ -22,6 +22,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
   - I absolutely love Danny Ma's SQL case studies! They're way too fun to do, revolves around food - and doesn't feel like work!
 - [My Personal SQL Study Notes](https://github.com/katiehuangx/Learn-SQL/blob/main/SQL%20101.md)
   - Writing my own SQL notes with explanation & syntax examples + including solutions from various SQL courses & tutorials.
+- [Udacity SQL Course](https://github.com/katiehuangx/Udacity-SQL-for-Data-Analysis) _[SQL]_
 
 ### 📚 Notable Projects
 - [Covid-19 and Impact on Malaysia stock market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) _[SQL, Tableau]_ 
@@ -33,9 +34,10 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
   - This is a special one, it's my 1st foray into EDA and Python programming. Analysed fitness tracking data, discovered trends and provided business recommendations.
 
 ### 📝 Currently Learning
-- DataCamp's Data Analyst with SQL Server (1/10 courses) (est. completion mid-Sep 2021)
-- DataCamp's Data Analyst with Python (5/16 courses) (est. completion Sep 2021)
+- DataCamp's Data Analyst with SQL Server (est. completion mid-Sep 2021)
 - Danny Ma's Serious SQL Course (est. completion Sep 2021)
+- Udacity SQL for Data Analysis Course (est. completion Aug 2021)
+- DataCamp's Data Analyst with Python (est. completion Sep 2021)
 
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/)! 
 
