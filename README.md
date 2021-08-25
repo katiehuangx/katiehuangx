@@ -35,9 +35,10 @@ Click [here](https://github.com/katiehuangx/Portfolio-Guide) for the guide to my
   - This is a special one, it's my 1st foray into EDA and Python programming. Analysed fitness tracking data, discovered trends and provided business recommendations.
 
 ### 📝 Currently Learning
-- DataCamp's Data Analyst with SQL Server (est. completion mid-Sep 2021)
-- Danny Ma's Serious SQL Course (est. completion Sep 2021)
-- DataCamp's Data Analyst with Python (est. completion Sep 2021)
+- DataCamp's Data Analyst with SQL Server (est. completion Sep 2021)
+- Serious SQL Apprenticeship (est. completion Sep 2021)
+- Udacity Data Analyst Nanodegree Program (est. completion Nov 2021)
+- DataCamp's Data Analyst with Python (est. completion Oct 2021)
 
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/)! 
 
