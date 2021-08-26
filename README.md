@@ -15,9 +15,9 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - Visualisation: Tableau
 
 ### 👩🏻‍💻 Currently Working On
-- [Marketing Analytics Case Study](https://github.com/katiehuangx/Serious-SQL) _[SQL]_
-  - A fun case study on how to generate customised marketing insights for customers. 
-  - Sneak peek _"What's your Top 2 movies 🎬 and Favourite actor?"_
+- [Udacity Data Analysts Nanodegree](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree) _[Python]_
+  - A 130-hours 5-courses program on statistics, data analysis, data wrangling and data visualization.
+  - Also, included my projects! 
 - [8 Week SQL Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge) _[SQL]_ 
   - I absolutely love Danny Ma's SQL case studies! They're way too fun to do, revolves around food - and doesn't feel like work!
 - [My Personal SQL Study Notes](https://github.com/katiehuangx/Learn-SQL/blob/main/SQL%20101.md)
