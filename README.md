@@ -16,8 +16,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### 👩🏻‍💻 Currently Working On
 - [Udacity Data Analysts Nanodegree](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree) _[Python]_
-  - A 130-hours 5-courses program on statistics, data analysis, data wrangling and data visualization.
-  - Also, included my projects! 
+  - A 5-part program on statistics, data analysis, data wrangling and data visualization.
 - [8 Week SQL Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge) _[SQL]_ 
   - I absolutely love Danny Ma's SQL case studies! They're way too fun to do, revolves around food - and doesn't feel like work!
 - [My Personal SQL Study Notes](https://github.com/katiehuangx/Learn-SQL/blob/main/SQL%20101.md)
