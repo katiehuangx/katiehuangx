@@ -22,7 +22,7 @@ I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - [My Personal SQL Study Notes](https://github.com/katiehuangx/Learn-SQL/blob/main/SQL%20101.md)
   - Writing my own SQL notes with explanation & syntax examples + including solutions from various SQL courses & tutorials.
 
-Click [here](https://github.com/katiehuangx/Portfolio-Guide) for the guide to my projects and courses!
+Click [here](https://github.com/katiehuangx/Portfolio-Guide) for a guide to my projects and courses!
 
 ### 📚 Notable Projects
 - [Covid-19 and Impact on Malaysia stock market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) _[SQL, Tableau]_ 
