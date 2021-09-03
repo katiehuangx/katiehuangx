@@ -1,7 +1,7 @@
 ## Hi there 🙋🏻‍♀️
 
 
-I'm Katie, a Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
+I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Accounting background + ACCA with 7 years professional experience.
