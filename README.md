@@ -4,10 +4,10 @@
 I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### ✨ About Me in 30 Secs ✨
-- 👩🏻‍💻 Accounting background + ACCA with 7 years of professional experience.
-- 📊 Transition to Data Analytics in Mar 2021.
-- 📝 Loves working with numbers and learning new skills. I self-taught myself SQL and Python.
-- 📚 Uses Excel for everything - personal accounts, study schedule, meal planning, travel itinerary.
+- 👩🏻‍💻 Accounting background + ACCA with 7 years of professional experience
+- 📊 Transition to Data Analytics in Mar 2021
+- 📝 Loves working with numbers and learning new skills. I self-taught myself SQL and Python
+- 📚 Uses Excel for everything - personal accounts, study schedule, meal planning, travel itinerary
 
 ### 💡 Skills and tools
 - Tools: SQL (SQL Server, PostgreSQL), Python (Pandas, Numpy, Matplotlib), Tableau, Excel (Pivot Tables, Vlookup, Charts), Google Sheets
