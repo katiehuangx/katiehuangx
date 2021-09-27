@@ -17,10 +17,11 @@ I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for the guide to my projects and case studies!
 
 ### 📝 Currently Learning
-- [Udacity Data Analyst Nanodegree Program](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree) (Oct 2021)
-- [DataWithDanny Apprenticeship - Serious SQL Course](https://github.com/katiehuangx/Serious-SQL-Apprenticeship) (Oct 2021)
-- DataCamp SQL Fundamentals (Oct 2021)
-- DataCamp Data Analyst with Python (Nov 2021)
+- WorldQuant University (Sep - Dec 21)
+- [Udacity Data Analyst Nanodegree Program](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree) (Aug - Oct 21)
+- [DataWithDanny Apprenticeship - Serious SQL Course](https://github.com/katiehuangx/Serious-SQL-Apprenticeship) (Aug - Oct 2021)
+- DataCamp SQL Fundamentals (Sep 21)
+- DataCamp Data Analyst with Python (Aug - Nov 2021)
 - DataCamp Data Analyst with SQL Server (Nov 2021)
 
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/)! 
