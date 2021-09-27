@@ -15,6 +15,7 @@ I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### 📚 Projects & Case Studies
 - Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for the guide to my projects and case studies!
+- View my recommended FREE SQL resources **[HERE](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)**
 
 ### 📝 Currently Learning
 - WorldQuant University Applied Data Science (Sep - Dec 21)
