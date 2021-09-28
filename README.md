@@ -15,13 +15,14 @@ I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### 📚 Projects & Case Studies
 - Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for the guide to my projects and case studies.
-- Click **[HERE](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)** for SQL resources (courses, YouTube, tutorials, practice websites, and more!).
-- Click **[HERE](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio)** to learn how to create a GitHub portfolio.
 
 ### 📝 Currently Learning
 - WorldQuant University Applied Data Science (Sep - Dec 21)
 - [Udacity Data Analyst Nanodegree Program](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree) (Aug - Oct 21)
 - DataCamp SQL Fundamentals (Sep 21)
 - DataCamp Data Analyst with Python (Aug - Nov 2021)
+
+- Click **[HERE](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)** for SQL resources (courses, YouTube, tutorials, practice websites, and more!).
+- Click **[HERE](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio)** to learn how to create a GitHub portfolio.
 
 🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/)! 
