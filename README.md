@@ -15,7 +15,7 @@ I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### 📚 Projects & Case Studies
 - Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for the guide to my projects and case studies.
-- Click **[HERE](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)** for my recommended free SQL resources.
+- Click **[HERE](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)** for SQL resources (courses, YouTube, tutorials, practice websites, and more!).
 - Click **[HERE](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio)** to learn how to create a GitHub portfolio.
 
 ### 📝 Currently Learning
