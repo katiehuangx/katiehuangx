@@ -1,6 +1,5 @@
 ## Hi there 🙋🏻‍♀️
 
-
 I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### ✨ About Me in 30 Secs ✨
@@ -10,18 +9,19 @@ I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - 📚 Uses Excel for everything - personal accounts, study schedule, meal planning, travel itinerary
 
 ### 💡 Skills and tools
-- Tools: SQL (SQL Server, PostgreSQL), Python (Pandas, Numpy, Matplotlib), Tableau, Excel (Pivot Tables, Vlookup, Charts), Google Sheets
-- Skills: Data Cleaning, Exploratory Data Analysis, Data Visualization, Transact SQL
+- Tools: SQL (SQL Server, PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Excel (Pivot Tables, Vlookup, Charts), Google Sheets
+- Skills: Data Wrangling, Analysis, Visualization, Transact SQL
 
 ### 📚 Projects & Case Studies
 - Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for the guide to my projects and case studies.
-- Click **[HERE](https://www.linkedin.com/posts/katiehuangx_sql-for-data-analysis-udacity-free-courses-activity-6838753919229931520-u44C)** for SQL resources (courses, YouTube, tutorials, practice websites, and more!).
-- Click **[HERE](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio)** to learn how to create a GitHub portfolio.
 
 ### 📝 Currently Learning
 - WorldQuant University Applied Data Science (Sep - Dec 21)
 - [Udacity Data Analyst Nanodegree Program](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree) (Aug - Oct 21)
-- DataCamp SQL Fundamentals (Sep 21)
-- DataCamp Data Analyst with Python (Aug - Nov 2021)
+- DataCamp SQL Fundamentals
+- DataCamp Data Analyst with Python
 
-🙋🏻‍♀️ Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/katiehuangx/)! 
+### 🙌🏻 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/katiehuangx/)
+- [Medium](https://katiehuangx.medium.com)
+- [Kaggle](https://www.kaggle.com/katiehuangx)
