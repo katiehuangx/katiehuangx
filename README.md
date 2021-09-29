@@ -1,4 +1,4 @@
-## Hi there 🙋🏻‍♀️
+## Hi there! 🙋🏻‍♀️
 
 I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
