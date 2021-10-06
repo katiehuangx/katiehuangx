@@ -14,8 +14,8 @@ I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - Tools: SQL (SQL Server, PostgreSQL, MySQL), Python (Pandas, Numpy, Matplotlib, Seaborn), Tableau, Excel (Pivot Tables, Vlookup, Charts), Google Sheets
 - Skills: Data Wrangling, Analysis, Visualization, Transact SQL, Business Analysis
 
-### 📚 Projects & Case Studies
-- Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for my projects and case studies guide.
+### 📚 Projects & Guides
+- Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for my projects and guides.
 
 ### 📝 Currently Learning
 - WorldQuant University Applied Data Science (Sep - Dec 21)
