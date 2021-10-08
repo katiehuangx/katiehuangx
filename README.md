@@ -6,7 +6,7 @@ I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - 👩🏻‍💻 Chartered accountant (ACCA) with 7 years of professional experience.
 - 🏡 Moved from KL city 🏙 to Penang island 🏝 (famous for good food and historical sites) in 2021.
 - 📊 Transition to Data Analytics in Mar 2021.
-- 📝 Loves working with numbers and learning new skills. I self-taught myself SQL and Python.
+- 📝 Loves working with numbers and learning new skills. I taught myself SQL and Python.
 - 📚 Uses Excel for everything - personal accounts and budgets, study schedule, meal planning, travel itinerary.
 - 🥑 Enjoys cooking, but not necessarily good in it. 
 
