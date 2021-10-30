@@ -18,8 +18,7 @@ I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for my projects and guides.
 
 ### 📝 Currently Learning
-- WorldQuant University Applied Data Science (Sep - Dec 21)
-- [Udacity Data Analyst Nanodegree Program](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree) (Aug - Oct 21)
+- [MySQL Data Analysis & Business Intelligence](https://github.com/katiehuangx/Udemy-MySQL-Data-Analysis-Business-Intelligence)
 - DataCamp Data Analyst with Python
 
 ### 🙌🏻 Connect with Me
