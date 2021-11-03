@@ -1,6 +1,6 @@
 ## Hi there! 🙋🏻‍♀️
 
-I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
+I'm Katie, a self-taught data analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Chartered accountant turned business intelligence analyst
