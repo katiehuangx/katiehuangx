@@ -3,7 +3,7 @@
 I'm Katie, a self-taught Data Analyst and SQL enthusiast from 🇲🇾 Malaysia.
 
 ### ✨ About Me in 30 Secs ✨
-- 👩🏻‍💻 Chartered accountant (ACCA) with 7 years of professional experience
+- 👩🏻‍💻 Chartered accountant turned business intelligence analyst
 - 🏡 Moved from KL city 🏙 to Penang island 🏝 in 2021
 - 📊 Transition to data field in Mar 2021
 - 📝 Loves working with numbers and learning new skills. I taught myself SQL and Python
