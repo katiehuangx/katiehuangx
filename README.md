@@ -8,7 +8,7 @@ I'm Katie, a self-taught data analyst and SQL enthusiast from 🇲🇾 Malaysia.
 - 📊 Transition to data field in Mar 2021
 - 📝 Loves working with numbers and learning new skills. I taught myself SQL and Python
 - 📚 Uses Excel for everything - personal accounts and budgets, study schedule, meal planning, travel itinerary
-- 🥑 Enjoys cooking, but not necessarily good in it
+- 🥑 Enjoys cooking
 
 ### 💡 Core Competencies
 - Tools: SQL, Python, Tableau, Excel, Google Sheets
