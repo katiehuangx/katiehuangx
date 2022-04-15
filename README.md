@@ -1,18 +1,16 @@
 ## Hi there! 🙋🏻‍♀️
 
-I'm Katie, a self-taught data analyst and SQL enthusiast from 🇲🇾 Malaysia.
+I'm Katie, a self-taught data analyst from 🇲🇾 Malaysia.
 
 ### ✨ About Me in 30 Secs ✨
-- 👩🏻‍💻 Chartered accountant turned business intelligence analyst
-- 🏡 Moved from KL city 🏙 to Penang island 🏝 in 2021
-- 📊 Transition to data field in Mar 2021
-- 📝 Loves working with numbers and learning new skills. I taught myself SQL and Python
-- 📚 Uses Excel for everything - personal accounts and budgets, study schedule, meal planning, travel itinerary
+- 👩🏻‍💻 Accountant turned business intelligence analyst
+- 📊 Transition to Data in Mar 2021
+- 📝 Loves working with numbers and learning new skills
 - 🥑 Enjoys cooking
 
 ### 💡 Core Competencies
-- Tools: SQL, Python, Tableau, Excel, Google Sheets
-- Skills: Transact SQL, Data Analysis, Relational Database, Visualization, Business Analysis
+- Tools: SQL, Python, Tableau
+- Skills: Relational Database, Visualization, Dashboard, Business Analysis
 
 ### 📚 Projects & Guides
 - Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for my projects and guides.
