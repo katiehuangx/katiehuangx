@@ -3,7 +3,7 @@
 I'm Katie, a self-taught data analyst from 🇲🇾 Malaysia.
 
 ### ✨ About Me in 30 Secs ✨
-- 👩🏻‍💻 Accountant turned business intelligence analyst
+- 👩🏻‍💻 Accountant turned data analyst
 - 📊 Transition to data since **March 2021**
 - 📝 Loves working with numbers and learning new skills
 - 🥑 Enjoys cooking
