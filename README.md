@@ -5,12 +5,11 @@ I'm Katie, a self-taught data analyst from 🇲🇾 Malaysia.
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Accountant turned data analyst
 - 📊 Transition to data since **March 2021**
-- 📝 Loves working with numbers and learning new skills
-- 🥑 Enjoys cooking
+- 📝 Taught myself SQL, Python and Tableau
 
 ### 💡 Core Competencies
 - Tools: SQL, Python, Tableau
-- Skills: Relational Database, Visualization, Dashboard, Business Analysis
+- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Database, Dashboard Design and Development
 
 ### 📚 Projects & Guides
 - Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for my projects and guides.
