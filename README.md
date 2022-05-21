@@ -12,7 +12,8 @@ I'm Katie, a self-taught data analyst from 🇲🇾 Malaysia.
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Database, Dashboard Design and Development
 
 ### 📚 Projects & Guides
-- Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for my projects and guides.
+- Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide)** for my projects and guides
+- Want to learn SQL, but not sure where to start? Start **[HERE](https://github.com/katiehuangx/Where-to-Learn-SQL)**
 
 ### 📝 Currently Learning
 - [World Quant University Applied Data Science Lab](https://github.com/katiehuangx/WQU-Applied-Data-Science-Lab)
