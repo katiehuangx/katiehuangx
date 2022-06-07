@@ -11,7 +11,7 @@ I'm Katie, a self-taught data analyst from 🇲🇾 Malaysia.
 - Learning Machine Learning ie. scikit-learn, linear regressions, different types of algorithms
 - Brushing up on data cleaning and wrangling skills
 - Python: World Quant University Applied Data Science Lab
-- SQL: [Maven Analytics Advanced MySQL Data Analysis and Business Intelligence](https://github.com/katiehuangx/Udemy-Advanced-MySQL)
+- SQL: [Maven Analytics Advanced MySQL Data Analysis and Business Intelligence]([https://github.com/katiehuangx/Udemy-Advanced-MySQL](https://github.com/katiehuangx/Udemy-Advanced-MySQL/blob/main/README.md))
 - Machine Learning theory: Maven Analytics Machine Learning for BI
 
 ### 💡 Core Competencies 💡
