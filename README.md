@@ -10,8 +10,8 @@ I'm Katie, a self-taught data analyst from 🇲🇾 Malaysia.
 ### ⚡️ Currently ⚡️
 - Learning Machine Learning ie. scikit-learn, linear regressions, different types of algorithms
 - Brushing up on data cleaning and wrangling skills
-- Python: World Quant University Applied Data Science Lab
-- SQL: [Maven Analytics Advanced MySQL Data Analysis and Business Intelligence]([https://github.com/katiehuangx/Udemy-Advanced-MySQL](https://github.com/katiehuangx/Udemy-Advanced-MySQL/blob/main/README.md))
+- World Quant University Applied Data Science Lab
+- [MySQL Data Analysis & Business Intelligence](https://github.com/katiehuangx/Udemy-MySQL-Data-Analysis-Business-Intelligence)
 
 ### 💡 Core Competencies 💡
 - Tools: SQL, Python, Tableau
@@ -20,10 +20,6 @@ I'm Katie, a self-taught data analyst from 🇲🇾 Malaysia.
 ### 📚 Projects & Guides 📚
 - Click **[HERE]([https://github.com/katiehuangx/Portfolio-Guide](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md))** for my projects and guides
 - Want to learn SQL, but not sure where to start? Click **[HERE](https://github.com/katiehuangx/Where-to-Learn-SQL)**
-
-### 📝 Currently Learning
-- [World Quant University Applied Data Science Lab](https://github.com/katiehuangx/WQU-Applied-Data-Science-Lab)
-- [MySQL Data Analysis & Business Intelligence](https://github.com/katiehuangx/Udemy-MySQL-Data-Analysis-Business-Intelligence)
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/katiehuangx/)
