@@ -8,8 +8,8 @@ I'm Katie, a self-taught data analyst from 🇲🇾 Malaysia.
 - 📝 Taught myself SQL, Python and Tableau
 
 ### 📚 Projects & Guides 📚
-- Click **[HERE](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)** for my projects and guides
-- Want to learn SQL, but not sure where to start? Click **[HERE](https://github.com/katiehuangx/Where-to-Learn-SQL)**
+- For my portfolio guide, click **[HERE](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)**
+- How to transition into Data Analytics? Click **[HERE](https://github.com/katiehuangx/Where-to-Learn-SQL)**
 
 ### 💡 Core Competencies 💡
 - Tools: SQL, Python, Tableau
