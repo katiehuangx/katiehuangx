@@ -9,7 +9,7 @@ I'm Katie, a self-taught data analyst from 🇲🇾 Malaysia.
 
 ### 📚 Projects & Guides 📚
 - For my portfolio guide, click **[HERE](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)**
-- How to transition into Data Analytics? Click **[HERE](https://github.com/katiehuangx/Transition-into-Data-Analytics/blob/main/README.md#-where-to-learn-sql)**
+- How to transition into Data Analytics? Click **[HERE](https://github.com/katiehuangx/Transition-into-Data-Analytics/blob/main/README.md)**
 
 ### 💡 Core Competencies 💡
 - Tools: SQL, Python, Tableau
