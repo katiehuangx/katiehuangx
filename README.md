@@ -1,27 +1,23 @@
-## Hi there! 🙋🏻‍♀️
+## Introducing Myself 🙋🏻‍♀️
 
-I'm Katie, a self-taught data analyst from 🇲🇾 Malaysia.
-
-### ✨ About Me in 30 Secs ✨
-- 👩🏻‍💻 Accountant turned data analyst
-- 📊 Transition to data since **March 2021**
-- 📝 Taught myself SQL, Python and Tableau
+Hi there! I'm Katie, a self-taught data analyst from Malaysia. With a background in accounting, I transitioned to data in 2021 and have been teaching myself SQL, Python, and Tableau ever since.
 
 ### 📚 Projects & Guides 📚
-- For my portfolio guide, click **[HERE](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)**
-- How to transition into Data Analytics? Click **[HERE](https://github.com/katiehuangx/Transition-into-Data-Analytics/blob/main/README.md)**
+In my portfolio, you can find my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) and guides on data analytics, including my journey from accounting to data and a [guide on transitioning into the field](https://github.com/katiehuangx/Transition-into-Data-Analytics/blob/main/README.md).
 
-### 💡 Core Competencies 💡
-- Tools: SQL, Python, Tableau
-- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+### 💡 My Skills
+• Data preparation, quality assurance, and analysis
+• Database design and modelling
+• Dashboard development and reporting
+• Exploratory data analysis
 
-### ⚡️ Currently ⚡️
-- Brushing up on data cleaning and wrangling skills using Python
-- Learning database administration
-- Course: World Quant University Applied Data Science Lab
-- Course: [MySQL Data Analysis & Business Intelligence](https://github.com/katiehuangx/Udemy-MySQL-Data-Analysis-Business-Intelligence)
+### 🛠️ My Tools
+• Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
+• Python: NumPy, Pandas
+• Visualisation: Tableau, Matplotlib, Seaborn
+• Project Management: Trello, JIRA
 
 ### 🙌🏻 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/katiehuangx/)
+- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
 - [Medium](https://katiehuangx.medium.com)
 - [Kaggle](https://www.kaggle.com/katiehuangx)
