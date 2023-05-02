@@ -11,8 +11,3 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/katie
 - Python: NumPy, Pandas
 - Business Intelligence: Tableau
 - Transformation: dbt
-
-### 🙌🏻 Connect with Me
-- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
-- [Medium](https://katiehuangx.medium.com)
-- [Kaggle](https://www.kaggle.com/katiehuangx)
