@@ -1,10 +1,8 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-I'm Katie, a data professional with a strong focus in SQL. 
+I'm Katie, a data professional with a strong focus in SQL. As a SQL consultant at DataLemur, I have developed over 100 queries and improved user understanding through detailed documentation.
 
-Currently, I'm a SQL consultant at DataLemur where I've developed over 100 queries and improved user understanding through detailed documentation.
-
-My areas of expertise include query optimization, database design, data modeling, and data analysis.
+With expertise in query optimization, database design, data modeling, and data analysis, I'm passionate about helping businesses make sense of their data. Currently, I'm open to remote opportunities in roles such as SQL Developer, Database Administrator, and Analytics Engineer.
 
 ### 📚 Projects
 
