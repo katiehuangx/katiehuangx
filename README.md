@@ -1,21 +1,16 @@
-## Introducing Myself 🙋🏻‍♀️
+## 🙋🏻‍♀️ Introducing Myself
 
-Hi there! I'm Katie, a self-taught data analyst from Malaysia. With a background in accounting, I transitioned to data in 2021 and have been teaching myself SQL, Python, and Tableau ever since.
+I'm Katie, a data professional with a strong focus in SQL. My areas of expertise include query optimization, database design, data modeling, and data analysis.
 
-### 📚 Projects & Guides 📚
-In my portfolio, you can find my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) and guides on data analytics, including my  [guide on transitioning into the field](https://github.com/katiehuangx/Transition-into-Data-Analytics/blob/main/README.md).
+### 📚 Projects
 
-### 💡 My Skills
-- Data preparation, quality assurance, and analysis
-- Database design and modelling
-- Dashboard development and reporting
-- Exploratory data analysis
+Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)
 
-### 🛠️ My Tools
-- Databases: SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Excel
+### 🛠️ Tools
+- Database: Snowflake, Google BigQuery, PostgreSQL, MySQL, SQL Server
 - Python: NumPy, Pandas
-- Visualisation: Tableau, Matplotlib, Seaborn
-- Project Management: Trello, JIRA
+- Business Intelligence: Tableau
+- Transformation: dbt
 
 ### 🙌🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/katiehuangx/)
