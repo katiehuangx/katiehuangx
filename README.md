@@ -8,7 +8,7 @@ Currently, I'm open to remote opportunities in roles such as SQL Developer, Data
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)
+Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
 
 ### 🛠️ Tools
 
