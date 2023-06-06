@@ -4,7 +4,7 @@ I'm Katie, a data professional with a strong focus in SQL. As a SQL consultant a
 
 With expertise in query optimization, database design, data modeling, and data analysis, I'm passionate about helping businesses make sense of their data. 
 
-Currently, I'm open to remote opportunities in roles such as SQL Developer, Database Administrator, and Analytics Engineer.
+Currently, I'm open to opportunities in roles such as Data Analyst, Business Intelligence Analyst, SQL Developer, Database Administrator, and Analytics Engineer.
 
 ### 📚 Projects
 
