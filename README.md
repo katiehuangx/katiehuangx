@@ -1,10 +1,8 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-I'm Katie, a data professional with a strong focus in SQL. As a SQL consultant at DataLemur, I have developed over 100 queries and improved user understanding through detailed documentation.
+![Brown and Gray Simple Personal LinkedIn Banner](https://github.com/katiehuangx/katiehuangx/assets/81607668/bad4dc56-1211-41ed-99a7-1bccea77bd72)
 
-With expertise in query optimization, database design, data modeling, and data analysis, I'm passionate about helping businesses make sense of their data. 
-
-Currently, I'm open to opportunities in roles such as Data Analyst, Business Intelligence Analyst, SQL Developer, Database Administrator, and Analytics Engineer.
+Hello, I'm Katie. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
 
 ### 📚 Projects
 
@@ -12,7 +10,11 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/katie
 
 ### 🛠️ Tools
 
-- Database: Snowflake, Google BigQuery, PostgreSQL, MySQL, SQL Server
-- Python: NumPy, Pandas
-- Business Intelligence: Tableau
-- Transformation: dbt
+- Language: SQL, Python
+- Database: Google BigQuery, PostgreSQL, MySQL
+- Visualization: Tableau, Looker Studio
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/katiehuangx/)
+- Hire me on [Upwork](https://www.upwork.com/freelancers/~016ea4ffe7d7d64c1d)
